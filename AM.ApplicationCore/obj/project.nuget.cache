@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKKoLMK+AgRLKICSqBJ25HTe8LWh2EJp1OSJ7p+eW4BXncXyHcm2jkV8CJStefdhE/iorUC3UMBAf7MQfz+AVg==",
+  "success": true,
+  "projectFilePath": "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
