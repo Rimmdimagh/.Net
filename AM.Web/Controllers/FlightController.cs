@@ -46,10 +46,30 @@ namespace AM.Web.Controllers
         // POST: FlightController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Flight flight)
+        public ActionResult Create(Flight flight, IFormFile AirlineLogo)
         {
+            //try
+            //{
+            //    sf.Add(flight);
+            //    sf.Commit();
+            //    return RedirectToAction(nameof(Index));
+            //}
+            //catch
+            //{
+            //    return View();
+            //}
             try
             {
+                if (AirlineLogo != null)
+                {
+                    var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "uploads",
+
+                    AirlineLogo.FileName);
+
+                    Stream stream = new FileStream(path, FileMode.Create);
+                    AirlineLogo.CopyTo(stream);
+                    flight.AirlineLogo = AirlineLogo.FileName;
+                }
                 sf.Add(flight);
                 sf.Commit();
                 return RedirectToAction(nameof(Index));
