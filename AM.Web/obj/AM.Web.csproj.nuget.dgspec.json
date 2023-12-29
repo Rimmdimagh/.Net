@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hp\\AirportManagement\\AM.Web\\AM.Web.csproj": {}
+    "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.Web\\AM.Web.csproj": {}
   },
   "projects": {
-    "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+    "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "projectName": "AM.ApplicationCore",
-        "projectPath": "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\hp\\AirportManagement\\AM.ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\hp\\AirportManagement\\AM.Web\\AM.Web.csproj": {
+    "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.Web\\AM.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hp\\AirportManagement\\AM.Web\\AM.Web.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.Web\\AM.Web.csproj",
         "projectName": "AM.Web",
-        "projectPath": "C:\\hp\\AirportManagement\\AM.Web\\AM.Web.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.Web\\AM.Web.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\hp\\AirportManagement\\AM.Web\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,11 +89,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
-                "projectPath": "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
+              "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
               },
-              "C:\\hp\\AirportManagement\\AMInfra\\AMInfra.csproj": {
-                "projectPath": "C:\\hp\\AirportManagement\\AMInfra\\AMInfra.csproj"
+              "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AMInfra\\AMInfra.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AMInfra\\AMInfra.csproj"
               }
             }
           }
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\hp\\AirportManagement\\AMInfra\\AMInfra.csproj": {
+    "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AMInfra\\AMInfra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hp\\AirportManagement\\AMInfra\\AMInfra.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AMInfra\\AMInfra.csproj",
         "projectName": "AMInfra",
-        "projectPath": "C:\\hp\\AirportManagement\\AMInfra\\AMInfra.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AMInfra\\AMInfra.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\hp\\AirportManagement\\AMInfra\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AMInfra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
-                "projectPath": "C:\\hp\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
+              "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\.Net\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj"
               }
             }
           }
